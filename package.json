@@ -1,0 +1,23 @@
+{
+  "name": "learn-to-code",
+  "version": "1.0.0",
+  "description": "learning to code with Dee",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdiraSlat/learn-to-code.git"
+  },
+  "author": "Graeme and Adira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdiraSlat/learn-to-code/issues"
+  },
+  "homepage": "https://github.com/AdiraSlat/learn-to-code#readme"
+}
